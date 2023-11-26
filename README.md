@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋, I'm Madhushan ES Pilapitiya</h1>
 <h3 align="center">A passionate Full Stack Mobile Application Developer from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/7v54.gif">
+<img align="right" alt="Coding" width="400" src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif">
 
 
 # 💫 About Me:
