@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋, I'm Madhushan ES Pilapitiya</h1>
 <h3 align="center">A passionate Full Stack Mobile Application Developer from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://th.bing.com/th/id/R.2dda4153499e9c46b3ae3953b1eb6b68?rik=kw8UyDvDAH66Cg&pid=ImgRaw&r=0)">
 
 
 # 💫 About Me:
