@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Madhushan ES Pilapitiya</h1>
-<h3 align="center">A passionate Full Stack Software Developer from Sri Lanka</h3>
+<h3 align="center">A Passionate Cyber Security Enthusiast from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif">
 
 
