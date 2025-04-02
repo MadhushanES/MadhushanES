@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🔭I'm currently working on Secure Python Chat Application<br>🌱I'm currently learning Cloud Technologies, Penetration Testing, Network Security, AWS <br>💬Ask me about Python, Bash, Node.js, Flutter, Figma, UI/UX Designing <br>📫How to reach me madhushan.es.pilapitiya@gmail.com <br>
+🔭I'm currently working as a Associate Engineer TechOps<br>🌱I'm currently learning Cloud Technologies, Penetration Testing, Network Security, AWS <br>💬Ask me about Python, Linux, Bash, AWS, SQL, Figma, UI/UX Designing <br>📫How to reach me madhushan.es.pilapitiya@gmail.com <br>
 
 
 ## 🌐 Socials:
